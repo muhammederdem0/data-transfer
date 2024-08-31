@@ -1,0 +1,2 @@
+TR| Bu bölümde dikkat edilmesi gereken ayarlar png dosyası içerisinde yer almaktadır. İp ataması manuel olup kullanıcının belirlediği değerler gösterilmiştir. Her iki cihazında "netmask" ayarı aynı olmak zorundadır.
+ENG| The settings to be considered in this section are included in the png file. IP address assignment is manual and user-specified values ​​are shown. The "netmask" setting must be the same on both devices.
